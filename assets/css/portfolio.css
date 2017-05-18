@@ -1,0 +1,100 @@
+/*set new height and width for portolio*/
+body{
+	height: 875px;
+	width:960px;
+	
+}
+
+/*set new height and width for section*/
+section{
+	height: 580px;
+	width: 520px;
+	
+
+}
+/*positive of images are relative to article*/
+article{
+	position: relative;
+}
+#photo1{
+	position: absolute;
+	top:10px;
+	left:10px;
+
+}
+
+#photo2{
+	position: absolute;
+	top:10px;
+	right:10px;
+
+}
+
+#photo3{
+	position: absolute;
+	top:280px;
+	left:10px;
+}
+
+#photo4{
+	position: absolute;
+	top:280px;
+	right:10px;
+
+}
+
+
+/*styling image text*/
+#head1{
+	background-color: #4aaaa5;
+	font-size: 35px;
+	width: 200px;
+	height: 40px;
+	color:#fff;
+	text-align: center;
+	padding: 13px;
+	position: absolute;
+	top:155px;
+	left:0px;
+	z-index: 2
+}
+
+#head2{
+	background-color: #4aaaa5;
+	font-size: 35px;
+	width: 200px;
+	height: 40px;
+	color:#fff;
+	text-align: center;
+	padding: 13px;
+	position: absolute;
+	top:155px;
+	right:0px;
+	z-index: 2
+}
+#head3{
+	background-color: #4aaaa5;
+	font-size: 35px;
+	width: 200px;
+	height: 40px;
+	color:#fff;
+	text-align: center;
+	padding: 13px;
+	position: absolute;
+	top:155px;
+	right:0px;
+	z-index: 2
+}
+#head4{
+	background-color: #4aaaa5;
+	font-size: 35px;
+	width: 200px;
+	height: 40px;
+	color:#fff;
+	text-align: center;
+	padding: 13px;
+	position: absolute;
+	top:155px;
+	right: :0px;
+	z-index: 2
+}
